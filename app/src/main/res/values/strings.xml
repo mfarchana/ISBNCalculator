@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ISBN Calculator</string>
+    <string name="outConvert">978-%d%d%d-%d%d%d-%d%d%d-%d</string>
+</resources>
